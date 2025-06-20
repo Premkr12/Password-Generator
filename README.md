@@ -53,7 +53,7 @@ npm start
 
 ## Screenshots
 
-![Screenshot](screenshots/light-mode.png)  
+![Screenshot](https://github.com/Premkr12/Password-Generator/blob/main/Screenshot/Screenshot%202025-06-21%20003620.png?raw=true)  
 
 ---
 
